@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+aliaz9
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HOLA+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <!--
 **aliaz9/aliaz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
